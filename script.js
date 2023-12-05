@@ -1,6 +1,6 @@
 $(document).ready(function () {
     // Palavras-chave iniciais
-    var initialQueries = ["ultimas noticias crimes financeiros america latina", "fraudes america latina"]
+    var initialQueries = ["ultimas noticias lavagem de dinheiro america latina 2023"]
     // Crie uma string de consulta combinando as palavras-chave
     var initialQuery = initialQueries.join(' ');
 
